@@ -1,5 +1,10 @@
 ![Build Status](https://travis-ci.org/AresMUSH/aresmush.svg?branch=master)
 
+Legacies & Legends
+==================
+
+...is a Superhero MUSH using the Ares codebase with a few tweaks of our own. This will (eventually) be the repository we use to udpate the server and will (eventually) have some customizations to the look, feel and functionality to better suit a freeform, systemless storytelling style game. I've already made a few changes directly on our server and the next step is to put them in here before working on extra changes. However I have just spent far too long fighting with Docker to get a locally hosted ARES setup and now I need to lie down for a few years.
+
 AresMUSH
 ========
 
